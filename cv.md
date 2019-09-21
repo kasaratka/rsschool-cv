@@ -19,7 +19,7 @@ Many people go to IT because of high salaries,  many because of new discoveries.
 
 ## Skills 
 
-I  studied programming languages such as  (learning  at university C++),  HTML, CSS.
+I  studied programming languages such as  (learning  at university **C++**),  **HTML**, **CSS**.
 
 ---
 
@@ -27,5 +27,23 @@ I  studied programming languages such as  (learning  at university C++),  HTML, 
 
 [https://onlinegdb.com/rJcSToQvB](https://onlinegdb.com/rJcSToQvB)
 
+---
+
+## Experience
 
 
+I wrote labs in C ++, and some pages on HTML. Did layouts in **Figma**
+
+---
+
+## Education
+
+* Finished secondary school focused on mathematics
+* Studying at the Oles Honchar Dnipro National University / Faculty of Applied Mathematics / Systematic analysis
+* EPAM JavaScript Development Q1 2019
+
+---
+
+## English
+
+***Pre intermediate***
