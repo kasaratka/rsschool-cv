@@ -13,7 +13,7 @@
 
 ## Summary
 
-Many people go to IT because of high salaries,  many because of new discoveries. I just want to do what I love and get a good salary. I don’t plan to create a robot that will play football better than Ronaldo or go through walls. I would like to work as an ordinary programmer, maybe something more.
+Many people go to **IT** because of high salaries,  many because of new discoveries. I just want to do what I love and get a good salary. I don’t plan to create a robot that will play football better than *Ronaldo* or go through walls. I would like to work as an ordinary programmer, maybe something more.
 
 ---
 
