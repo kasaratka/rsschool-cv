@@ -1,0 +1,42 @@
+.button {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #696969; /* Серый цвет фона */
+    color: white; /* Белый цвет текста */
+    padding: 1rem 1.5rem; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 3px; /* Скругляем уголки */
+   }
+
+  
+
+   h1{ 
+       text-align: center;
+       color:#fff;
+       text-shadow:0px 0px 15px #4682B4;
+       font-style:italic
+       
+       
+}
+
+h2{
+color: white;
+
+}
+
+div{
+
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #696969; /* Серый цвет фона */
+    color: white; /* Белый цвет текста */
+    padding: 1rem 1.5rem; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 3px; /* Скругляем уголки */
+
+
+
+}
+
+p{
+
+    color: white;
+}
