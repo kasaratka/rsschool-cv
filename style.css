@@ -1,42 +1,107 @@
 .button {
     display: inline-block; /* Строчно-блочный элемент */
-    background: #696969; /* Серый цвет фона */
-    color: white; /* Белый цвет текста */
     padding: 1rem 1.5rem; /* Поля вокруг текста */
-    text-decoration: none; /* Убираем подчёркивание */
     border-radius: 3px; /* Скругляем уголки */
-   }
-
-  
-
-   h1{ 
-       text-align: center;
-       color:#fff;
-       text-shadow:0px 0px 15px #4682B4;
-       font-style:italic
-       
-       
+    font-family: Verdana ;
+    color: black; /* Белый цвет текста */
+    background: #4682B4	; /* Серый цвет фона */
+    text-decoration: none; /* Убираем подчёркивание */
+    
 }
 
-h2{
-color: white;
-
-}
-
-div{
+.button:hover{
 
     display: inline-block; /* Строчно-блочный элемент */
-    background: #696969; /* Серый цвет фона */
-    color: white; /* Белый цвет текста */
     padding: 1rem 1.5rem; /* Поля вокруг текста */
-    text-decoration: none; /* Убираем подчёркивание */
     border-radius: 3px; /* Скругляем уголки */
+    font-family: Verdana ;
+    color: black; /* Белый цвет текста */
+    background: #E0FFFF	; /* Серый цвет фона */
+    text-decoration: none; /* Убираем подчёркивание */
+    
+}
+   
+.content{
+       
+    width:1024px;
+    margin: 0 auto;
 
+}
+.color{
+
+    color: #1E90FF;
+}
+
+.color_1{
+
+    color: #6495ED;
+}
+
+h1{ 
+       text-align: center;
+       color:#4682B4;
+       text-shadow:0px 0px 15px #4682B4;
+       font-family: Verdana ;
+}
+
+hr{
+    
+    display: inline-block; /* Строчно-блочный элемент */
+    padding: 1rem 31rem; /* Поля вокруг текста */
+    border-radius: 3px; /* Скругляем уголки */
+    font-family: Verdana ;
+    color: black; /* Белый цвет текста */
+    background: #1E90FF	; /* Серый цвет фона */
+    text-decoration: none; /* Убираем подчёркивание */
 
 
 }
+
+
+.text_align{
+
+float: left;
+}
+
+.text_align_2{
+
+    float: left;
+    margin-left: 50px;
+    
+    }
+
+
+
+
+
+.style_contact_info{
+
+    display: inline-block; /* Строчно-блочный элемент */
+    padding: 1rem 0.8rem; /* Поля вокруг текста */
+    border-radius: 3px; /* Скругляем уголки */
+    font-family: Verdana ;
+    color: black; /* Белый цвет текста */
+    background: #B0C4DE	; /* Серый цвет фона */
+    text-decoration: none; /* Убираем подчёркивание */
+
+
+    }
+    
+
+
+h2{
+color: black;
+font-family: Verdana ;
+
+}
+
 
 p{
 
-    color: white;
+    color: #2F4F4F;
+    font-family: Verdana ;
+}
+li{
+color: #2F4F4F;
+
 }
